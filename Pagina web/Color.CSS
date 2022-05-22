@@ -1,0 +1,53 @@
+a.article-section-tag, a.article-section-tag {
+    color: #f96700;
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: .02em;
+    font-size: 20px;
+    font-weight: 700;
+    width:80%;margin: 0 auto;min-width:200px;max-width:2000px;
+}
+span.Sombreado{background: yellow;}
+body {
+    margin: 0;
+    font-family: Libre Franklin,sans-serif;
+    color: #1f1f1f;
+}
+p.articulo {
+    font-size: 24px;
+    line-height: 1.5;
+}
+.Contenedor{
+    width:90%;margin: 0 auto;min-width:200px;max-width:2000px
+}
+.mhh-date-container {
+    flex-direction: row;
+    align-items: center;
+}
+.mhh-date-container, .mhh-site-logo {
+    display: flex;
+    justify-content: center;
+}
+
+.mhh-date-line {
+    border-bottom: 1px solid #666;
+    width: 100%;
+}
+.mhh-date-item {
+    color: #666;
+    flex-shrink: 0;
+    font-size: 14px;
+    font-style: italic;
+    max-height: 20px;
+    padding: 0 10px;
+    text-align: center;
+}
+.byline-datetime {
+    font-size: 14px;
+    color: #555;
+    line-height: 1.2;
+}
+.imagen{
+    width:90%;margin: 0 auto;min-width:200px;max-width:2000px;
+}

@@ -1,0 +1,1 @@
+https://www.infobae.com/latinpower/gaming/2022/05/12/de-elden-ring-a-resident-evil-5-nuevos-records-del-mundo-de-los-videojuegos/
